@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "679574534734",
+    "project_id": "hyukchatapp",
+    "storage_bucket": "hyukchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:679574534734:android:25c6d203a40aa0e385211f",
+        "android_client_info": {
+          "package_name": "com.example.hyukchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "679574534734-3q2nalhq0p8u8lq1iguemrr3sibabsen.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPAQs2Fd4kRNBU1tZQUCzK1kUnG3nmIbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "679574534734-3q2nalhq0p8u8lq1iguemrr3sibabsen.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
